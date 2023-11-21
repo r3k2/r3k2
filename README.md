@@ -16,7 +16,7 @@
 - https://git.sr.ht/~rek2/ctf_gathering
 - .... and more https://git.sr.ht/~rek2
 ---
-[!https://www.hackthebox.com/badge/image/16000/](https://app.hackthebox.com/profile/16000)
+[!HackTheBox Profile](https://www.hackthebox.com/badge/image/16000/)(https://app.hackthebox.com/profile/16000)
 <!---
 r3k2/r3k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
