@@ -5,6 +5,21 @@
 - 📫 How to reach me: Mastodon @rek2@hispagatos.space @rek2@defcon.social Matrix: @rek2:hispagatos.org
 - HackTheBox Profile: https://app.hackthebox.com/profile/16000
   # Software:
+  | URL | Description |
+| --- | ----------- |
+| [Mitmproxy hacking plugin](https://git.sr.ht/~rek2/mitmproxy_hacking) | Mitmproxy hacking plugin with utilities and commands for CTF and such. |
+| [rek2_httpserver](https://git.sr.ht/~rek2/rek2_httpserver) | HTTP server that handles post for data exfiltration. |
+| [Masto2Usenet](https://git.sr.ht/~rek2/Masto2Usenet) | A bot to post Masotodon toots also to a usenet newsgroup. |
+| [rek2_nntp](https://git.sr.ht/~rek2/rek2_nntp) | Rust library that provides a way to interact with NNTP servers, compliant with RFC 3977 and RFC 4643. |
+| [mpd-matrix](https://git.sr.ht/~rek2/mpd-matrix) | Integrates the Music Player Daemon (MPD) with Matrix chat. |
+| [otx_pulses](https://git.sr.ht/~rek2/otx_pulses) | Talks to the Open Thread Exchange OTX API to get the latest threads/pulses. |
+| [lambda-pipeline-autoapproval](https://git.sr.ht/~rek2/lambda-pipeline-autoapproval) | AWS lambda function that auto approves a AWS pipeline manual step. |
+| [whazthefukz](https://git.sr.ht/~rek2/whazthefukz) | A versatile network scanning utility, designed for efficient discovery and analysis of network assets. |
+| [ctf_gathering](https://git.sr.ht/~rek2/ctf_gathering) | Information gathering Bash tool for CTF boxes. |
+| [rek2_endpoint](https://git.sr.ht/~rek2/rek2_endpoint) | Scans for common endpoints in RESTful services and Swagger applications. |
+| ... | More at [rek2's projects](https://git.sr.ht/~rek2) |
+
+
 - https://git.sr.ht/~rek2/mitmproxy_hacking - Mitmproxy hacking plugin with utilities and commands for CTF and such.
 - https://git.sr.ht/~rek2/rek2_httpserver - HTTP server that handles post for data exfiltration.
 - https://git.sr.ht/~rek2/Masto2Usenet - A bot to post Masotodon toots also to a usenet newsgroup 
