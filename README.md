@@ -9,6 +9,8 @@
   - HackTheBox Profile: https://app.hackthebox.com/profile/16000
   - lemmy: https://lemmy.ml/u/rek2
   - pixelfed: https://pxlmo.com/@ReK2
+  - gemini: gemini://rek2.hispagatos.org
+  - blog: https://rek2.hispagatos.org
 
 # Software:
   
