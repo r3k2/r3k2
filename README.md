@@ -5,15 +5,16 @@
 - 📫 How to reach me: Mastodon @rek2@hispagatos.space @rek2@defcon.social Matrix: @rek2:hispagatos.org
 - HackTheBox Profile: https://app.hackthebox.com/profile/16000
   # Software:
-- https://git.sr.ht/~rek2/mitmproxy_hacking
-- https://git.sr.ht/~rek2/rek2_httpserver
-- https://git.sr.ht/~rek2/Masto2Usenet
-- https://git.sr.ht/~rek2/rek2_nntp
-- https://git.sr.ht/~rek2/mpd-matrix
-- https://git.sr.ht/~rek2/otx_pulses
-- https://git.sr.ht/~rek2/lambda-pipeline-autoapproval
-- https://git.sr.ht/~rek2/whazthefukz
-- https://git.sr.ht/~rek2/ctf_gathering
+- https://git.sr.ht/~rek2/mitmproxy_hacking - Mitmproxy hacking plugin with utilities and commands for CTF and such.
+- https://git.sr.ht/~rek2/rek2_httpserver - HTTP server that handles post for data exfiltration.
+- https://git.sr.ht/~rek2/Masto2Usenet - A bot to post Masotodon toots also to a usenet newsgroup 
+- https://git.sr.ht/~rek2/rek2_nntp - Rust library that provides a way to interact with NNTP servers, compliant with RFC 3977 and RFC 4643.
+- https://git.sr.ht/~rek2/mpd-matrix - Integrates the Music Player Daemon (MPD) with Matrix chat. It allows you to automatically send updates to a Matrix channel about the song you're currently listening to.
+- https://git.sr.ht/~rek2/otx_pulses - Talks to the Open Thread Exchange OTX API to get the latest threads/pulses from the people you subscribe to, This subscriptions tends to be to people that runs IDS/IPS/Firewalls and Hackers/CyberSecurity researcher that investigate threads
+- https://git.sr.ht/~rek2/lambda-pipeline-autoapproval - AWS lambda function that auto approves a AWS pipeline manual step only if the Test stage was suscessfull. 
+- https://git.sr.ht/~rek2/whazthefukz - A versatile network scanning utility, designed for efficient discovery and analysis of network assets. It combines subdomain enumeration with port scanning.
+- https://git.sr.ht/~rek2/ctf_gathering - Information gathering Bash tool to avoid repetitive basic information gathering on CTF boxes.
+- https://git.sr.ht/~rek2/rek2_endpoint - Scan for common endpoints in RESTful services and Swagger applications. It's particularly useful in penetration testing and CTF (Capture the Flag) scenarios. 
 - .... and more https://git.sr.ht/~rek2
 ---
 [ ![HackTheBox Profile](https://www.hackthebox.com/badge/image/16000/)](https://app.hackthebox.com/profile/16000)
