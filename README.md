@@ -3,6 +3,8 @@
 - 💞️ Please stop using centralized/propietary GitHub use real GIT in other ethical platforms, I choose sourcehut you can find my repos here: https://sr.ht/~rek2/
 - I do not have any repos of mine here anymore I migrated them to gitlab but all my new projects are in sourcehut sr.ht https://sr.ht/~rek2/ I only use this un-ethical platform to help other free/open projects that still have not seens how they are wrong but their projects are not at fault and deserve my bug reports, and profesional clients that still have github accounts instead of their own gitlab.
 - 📫 How to reach me:
+  - **Blog**: https://rek2.hispagatos.org
+  - **Hacking & CTFs Lab**: https://rek2.hispagatos.org/writeups/ 
   - **Mastodon** @rek2@hispagatos.space @rek2@defcon.social
   - **Matrix**: [@rek2:hispagatos.org](https://matrix.to/#/@rek2:hispagatos.org)
   - **usenet**: alt.2600 alt.2600.madrid hispagatos.talk
@@ -10,7 +12,6 @@
   - **lemmy**: https://lemmy.ml/u/rek2
   - **pixelfed**: https://pxlmo.com/@ReK2
   - **gemini**: gemini://rek2.hispagatos.org
-  - **blog**: https://rek2.hispagatos.org
 
 # Software:
   
