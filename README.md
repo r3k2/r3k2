@@ -16,6 +16,7 @@
   
 | URL | Description |
 | --- | ----------- |
+|[Usenet Reborn](https://sr.ht/~rek2/Usenet_Reborn/) | Usenet Reborn is a TUI Usenet & NNTP Client with VIM alike keybinds |
 | [Mitmproxy hacking plugin](https://git.sr.ht/~rek2/mitmproxy_hacking) | Mitmproxy hacking plugin with utilities and commands for CTF and such. |
 | [rek2_httpserver](https://git.sr.ht/~rek2/rek2_httpserver) | HTTP server that handles post for data exfiltration. |
 | [Masto2Usenet](https://git.sr.ht/~rek2/Masto2Usenet) | A bot to post Masotodon toots also to a usenet newsgroup. |
